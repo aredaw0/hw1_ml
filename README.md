@@ -1,6 +1,6 @@
 # hw1_ml
 
-Папка со скринами, записью экрана FastAPI и EDA-отчетами: https://drive.google.com/drive/folders/1VPvzoxNCIexFEpzVtR2o0Mb4sp3t1P_x?usp=sharing
+Папка со скринами, записью экрана FastAPI и EDA-отчетами (дашбордами): https://drive.google.com/drive/folders/1VPvzoxNCIexFEpzVtR2o0Mb4sp3t1P_x?usp=sharing
 
 Работа с основной частью заданий: 
 
